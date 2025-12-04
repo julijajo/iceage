@@ -1,7 +1,7 @@
 karipong = {
 	color = karipong
 
-	ethos = 
+	ethos = ethos_communal
 	heritage = heritage_karipong
 	language = language_karipong
 	martial_custom = martial_custom_equal
@@ -11,6 +11,63 @@ karipong = {
 		tradition_mystical_ancestors
 		tradition_parochialism
 		tradition_bush_hunting
+		# Tribal Unity based
+		# Medicinal Herbalists maybe
+		# Wetlanders maybe
+		# Pastorialists prob not
+		# Storytellers
+		# Collective Lands
+
+		# Esteemed Hospitality 
+		# In this culture rulers are known, and expected, to welcome anyone who might come to their court with open arms. Hosting guests and visitors in a spectacular fashion.
+
+		# Family Business maybe
+		# Everything close family
+
+		# Forest Folk could work
+		# Hidden Cities maybe but change from jungle to forest
+		
+		# Monastic Communities maybe reworked
+		# Mountain Homes could work depends on mountain terrain
+		# State Ransoming sounds fun
+		# we can make it into situalistic warfare
+		# Every soldier goes into battle ready to risk life and limb for their liege! Does it not behoove the liege to offer them some guarantee of safety, regardless of station, should they be captured in the field?
+
+	# warfare traditions
+		# Forest Fighters 
+		# Highland Warriors thematically maybe?? but gameplay-wise no
+		# Hit-and-Run Tacticians
+		# custom tradition about hunting and archers
+		# Only the Strong
+
+		# Reverence for Veterans they would do this
+		# Stand and Fight! they would do this
+		# Winter Warriors
+
+	# social traits
+		# Charismatic (Welcoming)
+		# The people of this culture excel in diplomatic matters, and social etiquette is valued above all else.
+
+		# the free karipong: Diasporic
+		# Expert Artisans maybe?
+		# Mendicant Mystics thematically maybe?? but gameplay-wise no
+		# Musical Theorists beyond useless
+		# Northern Stories overlaps with storytellers
+		# Prolific Hunters kinda like it
+		# this culture has refined their hunting practices to precise and almost beautiful art
+		# Ritualized Friendship
+		# Trials-by-Combat maybe
+	# ritual traditions
+		# Bound by Faith only as a failsafe
+
+		# what if concubines' children are disinherited from the start and cannot inherit titles
+		# Mystical Ancestors yes, very karpong coded
+		# ursine hunt?
+	# regional
+		# Forest Wardens it's not bad, but are we really that foresty?
+		# Strong Kinship we had something very similar to this i frogor
+		# Tribes of the North lowkey this does everything, except it's DLC
+
 	}
 
 	name_list = name_list_karipong
