@@ -1,0 +1,76 @@
+name_list_karipong = {
+
+  cadet_dynasty_names = {
+  # Mammals
+		"dynn_Bear"
+		"dynn_Mammoth"
+		"dynn_Dog"
+		"dynn_Sabertooth"
+		"dynn_Yak"
+		"dynn_Deer"
+		"dynn_Elk"
+		"dynn_Moose"
+		"dynn_Water_Buffalo"
+		"dynn_Horse"
+		"dynn_Woolly_Rhino"
+		"dynn_Wolf"
+		"dynn_Sheep"
+		"dynn_Otters"
+		"dynn_Boar"
+		"dynn_Fox"
+		"dynn_Snow_Leopard"
+		"dynn_Hedgehog"
+		"dynn_Badger"
+		"dynn_Eurasian_Lynx"
+  # Bugs
+		"dynn_Butterfly"
+		"dynn_Ladybug"
+		"dynn_Bee"
+		"dynn_Beetles"
+		"dynn_Ants"
+		"dynn_Crickets"
+		"dynn_Moth"
+		"dynn_Dragonfly"
+  # Spiders
+		"dynn_Wolf_Spider"
+		"dynn_Widow_Spider"
+		"dynn_Orb_Weaver"
+		"dynn_Daddy_Longlegs"
+		"dynn_Crab_Spider"
+		"dynn_Wasp_Spider"
+  # Fish
+		"dynn_Salmon"
+		"dynn_Catfish"
+		"dynn_Zander"
+		"dynn_Trout"
+		"dynn_Carp"
+		"dynn_Eel"
+		"dynn_Perch"
+		"dynn_Pike"
+		"dynn_Roach"
+		"dynn_Baikal_seals"
+  # Birds
+		"dynn_Stork"
+		"dynn_Crow"
+		{"dynnp_de" "dynn_Owl"}
+		"dynn_Magpie"
+		"dynn_Goose"
+		"dynn_Swans"
+		"dynn_Duck"
+		"dynn_Robin"
+		"dynn_Blackbird"
+		"dynn_Crane"
+		"dynn_Eagle"
+		"dynn_Falcon"
+		"dynn_Woodpecker"
+
+
+	dynasty_names = {
+		{}}
+
+  male_names = {}
+
+  female_names = {}
+
+  dynasty_of_location_prefix = "dynnp_de"
+}
