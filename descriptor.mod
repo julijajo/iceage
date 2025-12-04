@@ -2,7 +2,11 @@ version="0.0.1"
 tags={
 	"Total Conversion"
 }
+<<<<<<< Updated upstream
 name="Karipong Ice Age/Based on Total Conversion Sandbox(1.18)"
+=======
+name="ICE AGE UWU"
+>>>>>>> Stashed changes
 replace_path="common/bookmark_portraits"
 replace_path="common/bookmarks"
 replace_path="common/religion/religions"
