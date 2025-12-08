@@ -8,3 +8,16 @@
 	name = "dynn_Prydain"
 	culture = "welsh"
 }
+
+dynn_Dog = {
+	name = "dynn_Dog"
+	culture = "karipong"
+}
+dynn_Mammoth = {
+	name = "dynn_Mammoth"
+	culture = "karipong"
+}
+dynn_Butterfly = {
+	name = "dynn_Butterfly"
+	culture = "karipong"
+}

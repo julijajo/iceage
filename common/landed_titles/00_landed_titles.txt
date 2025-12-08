@@ -265,7 +265,6 @@ e_the_vale = {
 					color = { 22 107 181 }
 				}
 			}
-			
 		}
 		d_the_pass = {
 			color = { 42 127 201 }
@@ -325,6 +324,101 @@ e_the_vale = {
 				}
 				b_on_the_road = {
 					province = 48
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_starfall = {
+				color = { 22 107 181 }
+				
+				b_starfall = {
+					province = 12
+					
+					color = { 22 107 181 }
+				}
+				b_boarhill = {
+					province = 11
+					
+					color = { 22 107 181 }
+				}
+				b_hunterspass = {
+					province = 240
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_forestdeep = {
+				color = { 22 107 181 }
+				
+				b_watergate = {
+					province = 210
+					
+					color = { 22 107 181 }
+				}
+				b_upriver = {
+					province = 229
+					
+					color = { 22 107 181 }
+				}
+				b_forestdeep = {
+					province = 243
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_rockfoot = {
+				color = { 22 107 181 }
+				
+				b_shaggysbane = {
+					province = 222
+					
+					color = { 22 107 181 }
+				}
+				b_bonecracks = {
+					province = 225
+					
+					color = { 22 107 181 }
+				}
+				b_greenvalley = {
+					province = 216
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_greysands = {
+				color = { 22 107 181 }
+				
+				b_silverstream = {
+					province = 212
+					
+					color = { 22 107 181 }
+				}
+				b_bytheshore = {
+					province = 202
+					
+					color = { 22 107 181 }
+				}
+				b_beaverhill = {
+					province = 187
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_lostfang = {
+				color = { 22 107 181 }
+				
+				b_lostfang = {
+					province = 179
+					
+					color = { 22 107 181 }
+				}
+				b_crimsonmoss = {
+					province = 206
+					
+					color = { 22 107 181 }
+				}
+				b_the_bend = {
+					province = 161
 					
 					color = { 22 107 181 }
 				}

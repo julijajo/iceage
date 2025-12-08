@@ -1,53 +1,75 @@
-e_maghreb = {
-	867.1.1 = { change_development_level = 3 }
-	1066.1.1 = { change_development_level = 6 }
+c_whiterock = {
+	0.1.1 = {
+		holder = mammoth_61
+	}
+	49.1.1 = {
+		holder = mammoth_71
+	}
+	82.1.1 = {
+		holder = mammoth_91
+	}
+	108.1.1 = {
+		holder = mammoth_100
+	}
 }
-
-k_maghreb = {
-	867.1.1 = { change_development_level = 3 }
-	1066.1.1 = { change_development_level = 6 }
+c_goatslope = {
+	0.1.1 = {
+		holder = mammoth_61
+	}
+	49.1.1 = {
+		holder = mammoth_71
+	}
+	82.1.1 = {
+		holder = mammoth_91
+	}
+	108.1.1 = {
+		holder = mammoth_102
+	}
 }
-
-d_canarias = {
-	867.1.1 = { change_development_level = 3 }
-	1066.1.1 = { change_development_level = 6 }
+c_greyslopes = {
+	64.1.1 = {
+		holder = mammoth_81
+	}
+	91.1.1 = {
+		holder = mammoth_821
+	}
 }
-
-c_canarias = {
-	867.1.1 = { change_development_level = 3 }
-	1066.1.1 = { change_development_level = 6 }
-	767.1.1 = { government = tribal_government }
-	850.1.1 = {
-		holder = 166423
+c_fogbog = {
+	64.1.1 = {
+		holder = mammoth_81
 	}
-	877.1.1 = {
-		holder = 166424
+	91.1.1 = {
+		holder = mammoth_821
 	}
-	906.1.1 = {
-		holder = 166425
+}
+c_redhills = {
+	88.1.1 = {
+		holder = butterfly_0901
 	}
-	929.1.1 = {
-		holder = 166426
+	119.1.1 = {
+		holder = butterfly_100
 	}
-	941.1.1 = {
-		holder = 166427
+}
+c_redpeaks = {
+	88.1.1 = {
+		holder = butterfly_0901
 	}
-	964.1.1 = {
-		holder = 166428
+	119.1.1 = {
+		holder = butterfly_1001
 	}
-	979.1.1 = {
-		holder = 166429
+}
+c_forestdeep = {
+	119.1.1 = {
+		holder = dog_100
 	}
-	994.1.1 = {
-		holder = 166430
+}
+c_redfall = {
+	89.1.1 = {
+		holder = butterfly_0902
 	}
-	1010.1.1 = {
-		holder = 166431
-	}
-	1030.1.1 = {
-		holder = 166432
-	}
-	1066.1.1 = {
-		holder = 20842
+}
+c_crimsonslopes = {
+	89.1.1 = {
+		holder = butterfly_0902
 	}
 }

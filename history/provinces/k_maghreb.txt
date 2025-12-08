@@ -1,8 +1,74 @@
 #k_maghreb
 ##d_canarias ###################################
-###c_canarias
-1 = {		#GRAN CANARIA
-	culture = baranis
+###c_bigrock
+231 = {		#Big Rock
+	culture = karipong
 	religion = west_african_pagan
 	holding = tribal_holding
 }
+###c_bigrock
+220 = {		#Pine Slope
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_bigrock
+6 = {		#Goatslope
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_forestdeep
+210 = {		#Watergate
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_greyslope
+227 = {		#Greyslope
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_fogbog
+233 = {		#Fallenlog
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_redpeaks
+67 = {		#Red Peaks
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_redhills
+50 = {		#Redhills
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_redfall
+63 = {		#Redfall
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+###c_redplains
+45 = {		#Redplains
+	culture = karipong
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,152 +1,488 @@
-﻿20842 = {
-	name = "Guanarigato"
-	dynasty = 100848
+﻿######### Mamoth Clan
+mammoth_50 = {
+	name = "Winterfoot"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166432
-	1039.1.1 = {
-		birth = "1039.1.1"
+	-54.1.1 = {
+		birth = yes
 	}
-	1089.1.1 = {
-		death = "1089.1.1"
+	34.1.1 = {
+		death = yes
 	}
 }
-
-166423 = {
-	name = "Guanareme"
-	dynasty = 100848
+mammoth_60 = {
+	name = "Whitetusk"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	831.1.1 = {
-		birth = "831.1.1"
+	mother = mammoth_50
+	-21.1.1 = {
+		birth = yes
 	}
-	877.1.1 = {
-		death = "877.1.1"
+	41.1.1 = {
+		death = yes
 	}
 }
-
-166424 = {
-	name = "AN_aterve"
-	dynasty = 100848
+mammoth_61 = {
+	name = "Strongfoot"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166423
-	850.1.1 = {
-		birth = "850.1.1"
+	mother = mammoth_50
+	-23.1.1 = {
+		birth = yes
 	}
-	906.1.1 = {
-		death = "906.1.1"
+	49.1.1 = {
+		death = yes
 	}
 }
-
-166425 = {
-	name = "Zonzamas"
-	dynasty = 100848
+mammoth_70 = {
+	name = "Whiteclaw"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166424
-	867.1.1 = {
-		birth = "867.1.1"
+	mother = mammoth_60
+	5.1.1 = {
+		birth = yes
 	}
-	929.1.1 = {
-		death = "929.1.1"
+	69.1.1 = {
+		death = yes
 	}
 }
-
-166426 = {
-	name = "TitaN_e"
-	dynasty = 100848
+mammoth_71 = {
+	name = "Fang"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166425
-	890.1.1 = {
-		birth = "890.1.1"
+	mother = mammoth_60
+	7.1.1 = {
+		birth = yes
 	}
-	941.1.1 = {
-		death = "941.1.1"
+	82.1.1 = {
+		death = yes
 	}
 }
-
-166427 = {
-	name = "Ayoze"
-	dynasty = 100848
+mammoth_80 = {
+	name = "Whitefingers"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166426
-	911.1.1 = {
-		birth = "911.1.1"
+	mother = mammoth_70
+	31.1.1 = {
+		birth = yes
 	}
-	964.1.1 = {
-		death = "964.1.1"
+	91.1.1 = {
+		death = yes
 	}
 }
-
-166428 = {
-	name = "Dardamo"
-	dynasty = 100848
+mammoth_81 = {
+	name = "Woolly"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166427
-	936.1.1 = {
-		birth = "936.1.1"
+	mother = mammoth_70
+	35.1.1 = {
+		birth = yes
 	}
-	979.1.1 = {
-		death = "979.1.1"
+	91.1.1 = {
+		death = yes
 	}
 }
-
-166429 = {
-	name = "Betzenuhya"
-	dynasty = 100848
+mammoth_82 = {
+	name = "Redcheeks"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166428
-	955.1.1 = {
-		birth = "955.1.1"
+	mother = mammoth_70
+	37.1.1 = {
+		birth = yes
 	}
-	994.1.1 = {
-		death = "994.1.1"
+	91.1.1 = {
+		death = yes
 	}
 }
-
-166430 = {
-	name = "GuardafI_a"
-	dynasty = 100848
+mammoth_821 = {
+	name = "Blackrock"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166429
-	977.1.1 = {
-		birth = "977.1.1"
+	mother = mammoth_82
+	trait = education_stewardship_4
+	64.1.1 = {
+		birth = yes
 	}
-	1010.1.1 = {
-		death = "1010.1.1"
+	126.1.1 = {
+		death = yes
 	}
 }
-
-166431 = {
-	name = "Imobach"
-	dynasty = 100848
+mammoth_90 = {
+	name = "Rawmeat"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166430
-	994.1.1 = {
-		birth = "994.1.1"
+	mother = mammoth_80
+	53.1.1 = {
+		birth = yes
 	}
-	1036.1.1 = {
-		death = "1036.1.1"
+	128.1.1 = {
+		death = yes
 	}
 }
-
-166432 = {
-	name = "AdxoN_a"
-	dynasty = 100848
+mammoth_91 = {
+	name = "Shaggy"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
 	religion = "west_african_pagan"
-	culture = baranis
-	father = 166431
-	1017.1.1 = {
-		birth = "1017.1.1"
+	mother = mammoth_80
+	56.1.1 = {
+		birth = yes
 	}
-	1066.1.1 = {
-		death = "1066.1.1"
+	108.1.1 = {
+		death = yes
+	}
+}
+mammoth_100 = {
+	name = "Blackteeth"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	trait = giant
+	trait = callous
+	trait = ambitious
+	trait = diligent
+	mother = mammoth_90
+	trait = education_martial_3
+	76.1.1 = {
+		birth = yes
+	}
+	96.1.1 = {
+		add_matrilineal_spouse = dog_91
+	}
+	107.1.1 = {
+		give_nickname = nick_the_giant
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_101 = {
+	name = "Pinetree"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_90
+	trait = generous
+	trait = diligent
+	trait = calm
+	trait = education_diplomacy_3
+	72.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_102 = {
+	name = "Redclaw"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_90
+	trait = brave
+	trait = ambitious
+	trait = callous
+	trait = education_martial_3
+	78.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_1021 = {
+	name = "Pinetree"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_102
+	99.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_1022 = {
+	name = "Sheepcloak"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_102
+	105.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_103 = {
+	name = "Fang"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_90
+	81.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_104 = {
+	name = "Meekpaw"
+	female = yes
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_90
+	83.1.1 = {
+		birth = yes
+	}
+	134.1.1 = {
+		death = yes
+	}
+}
+mammoth_1001 = {
+	name = "Whitefingers"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	father = mammoth_100
+	trait = child_of_concubine_male
+	trait = giant
+	94.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+mammoth_1002 = {
+	name = "Bluescale"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	father = mammoth_100
+	mother = dog_91
+	99.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+mammoth_1003 = {
+	name = "Blackpine"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	father = mammoth_100
+	mother = dog_91
+	trait = giant
+	103.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+mammoth_1004 = {
+	name = "Whiteye"
+	dynasty = dynn_Mammoth
+	female = yes
+	culture = "karipong"
+	religion = "west_african_pagan"
+	trait = child_of_concubine_female
+	father = mammoth_100
+	103.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+mammoth_1005 = {
+	name = "Redteeth"
+	dynasty = dynn_Mammoth
+	female = yes
+	culture = "karipong"
+	religion = "west_african_pagan"
+	trait = child_of_concubine_female
+	father = mammoth_100
+	105.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+mammoth_1006 = {
+	name = "Blackteeth"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	father = mammoth_100
+	mother = dog_91
+	trait = giant
+	112.1.1 = {
+		birth = yes
+	}
+	154.1.1 = {
+		death = yes
+	}
+}
+######### Dog Clan
+dog_80 = {
+	name = "Smokeye"
+	female = yes
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	49.1.1 = {
+		birth = yes
+	}
+	102.1.1 = {
+		death = yes
+	}
+}
+dog_90 = {
+	name = "Meekpaw"
+	female = yes
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_80
+	71.1.1 = {
+		birth = yes
+	}
+	128.1.1 = {
+		death = yes
+	}
+}
+dog_91 = {
+	name = "Whitefingers"
+	female = yes
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_80
+	74.1.1 = {
+		birth = yes
+	}
+	130.1.1 = {
+		death = yes
+	}
+}
+dog_100 = {
+	name = "Hunter"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_90
+	91.1.1 = {
+		birth = yes
+	}
+	143.1.1 = {
+		death = yes
+	}
+}
+##### Butterfly
+butterfly_080 = {
+	name = "Cloudhair"
+	female = yes
+	dynasty = dynn_Butterfly
+	culture = "karipong"
+	religion = "west_african_pagan"
+	49.1.1 = {
+		birth = yes
+	}
+	101.1.1 = {
+		death = yes
+	}
+}
+butterfly_090 = {
+	name = "Whitefang"
+	female = yes
+	dynasty = dynn_Butterfly
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = butterfly_080
+	74.1.1 = {
+		birth = yes
+	}
+	121.1.1 = {
+		death = yes
+	}
+}
+butterfly_0901 = {
+	name = "Blackface"
+	dynasty = dynn_Butterfly
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = butterfly_080
+	76.1.1 = {
+		birth = yes
+	}
+	119.1.1 = {
+		death = yes
+	}
+}
+butterfly_0902 = {
+	name = "Whitesap"
+	dynasty = dynn_Butterfly
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = butterfly_080
+	66.1.1 = {
+		birth = yes
+	}
+	125.1.1 = {
+		death = yes
+	}
+}
+butterfly_100 = {
+	name = "Redeyes"
+	dynasty = dynn_Butterfly
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = butterfly_090
+	97.1.1 = {
+		birth = yes
+	}
+	143.1.1 = {
+		death = yes
+	}
+}
+butterfly_1001 = {
+	name = "Coldfeet"
+	dynasty = dynn_Butterfly
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = butterfly_090
+	102.1.1 = {
+		birth = yes
+	}
+	143.1.1 = {
+		death = yes
 	}
 }

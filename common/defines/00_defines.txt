@@ -1060,7 +1060,7 @@ NDomain = {
 	TAX_AT_ZERO_COUNTY_CONTROL = 0.0			# How much % tax do you get at 0 county control? Interpolated between this value and 100% when between 0 and 100
 	LEVIES_AT_MAX_COUNTY_DEVELOPMENT = 0.5		# How many % levies bonus do you get at 100 county development? Interpolated between this value and 0% when between 0 and 100
 	TAX_AT_MAX_COUNTY_DEVELOPMENT = 0.5			# How much % tax bonus do you get at 100 county development? Interpolated between this value and 0% when between 0 and 100
-	HOLDING_MIN_GARRISON_COUNT = 25				# The minimal amount of garrisons a holding should have if it should have garrisons
+	HOLDING_MIN_GARRISON_COUNT = 15				# The minimal amount of garrisons a holding should have if it should have garrisons
 	ABOVE_LIMIT_BARTER_GOODS_INCOME_PENALTY = 0.2 	# How much Barter Goods are reduced per holding over the limit
 	ABOVE_LIMIT_MAX_BARTER_GOODS_INCOME_PENALTY = 1 # How much Barter Goods can be reduced at most
 }
@@ -1163,7 +1163,7 @@ NMercenary = {
 											# The numbers correspond to numbers of counties of the culture. No company exists if the number is lower than the first value specified here.
 	HIRE_RANGE = 500						# The maximum distance of mercenaries that can be hired (capital to mercenary location)
 	HIRE_RANGE_SAME_CULTURE = 1500			# The maximum distance of mercenaries with the same culture that can be hired (capital to mercenary location)
-	LEVIES = { 400 800 1200 }				# The base numbers of levies for levels of mercenary bands
+	LEVIES = { 15 50 100 }				# The base numbers of levies for levels of mercenary bands
 	MAA_REGIMENTS = { 1 2 3 }				# The number of MAA regiments for levels of mercenary bands
 	NUM_KNIGHTS = { 2 3 4 }					# The number of knights for levels of mercenary bands
 	MAA_REGIMENT_SIZES = { 3 3 3 }	# The base sizes of MAA regiments for levels of mercenary bands, in number of sub-regiments
@@ -1189,7 +1189,7 @@ NMercenary = {
 NHolyOrder = {
 	# In addition to the holding levies, a holy order has levies according to this formula:
 	# NUM_LEVIES_BASE + <num holdings> * NUM_LEVIES_PER_HOLDING
-	NUM_LEVIES_BASE = 500
+	NUM_LEVIES_BASE = 200
 	NUM_LEVIES_PER_HOLDING = 200
 
 	# The holy order starts out with NUM_MAA_BASE Men-At-Arms sub-regiments. These will always try to use the holy_order_maa defined in the religion, if any are available.
@@ -1374,7 +1374,7 @@ NPlayer = {
 
 NRaid = {
 	RAID_LOOT_PER_SOLDIER = 0.1				# How much loot can a single soldier carry? Minimum increment is 0.001
-	MIN_SOLDIERS_TO_RAID = 200				# How small can a raid army be and still be able to loot?
+	MIN_SOLDIERS_TO_RAID = 10				# How small can a raid army be and still be able to loot?
 	MONTHLY_ATTRITION = 0.01				# How much attrition do you take while looting a province? 0.01 = 1% per month
 	MONTHS_OF_RAID_LOOT = 12				# How many months of holding income (with owner effects discounted) does raiding provide?
 	LESS_MONTHS_OF_RAID_LOOT = 6 			# This is subtracted from MONTHS_OF_RAID_LOOT if you have the goverment 'barter = yes'
