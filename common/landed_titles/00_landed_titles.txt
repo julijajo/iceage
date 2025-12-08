@@ -5,7 +5,7 @@
 e_the_vale = {
 	color = { 209 63 44 }
 	
-	capital = c_theseat
+	capital = c_the_seat # c_the_seat
 	
 	ai_primary_priority = {
 		if = {
