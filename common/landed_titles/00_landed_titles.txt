@@ -2,7 +2,7 @@
 @better_than_the_alternatives_score = 50
 @always_primary_score = 1000
 
-e_maghreb = {
+e_the_vale = {
 	color = { 209 63 44 }
 	
 	capital = c_canarias # Canarias
@@ -18,7 +18,7 @@ e_maghreb = {
 		}
 	}
 	
-	k_maghreb = {
+	k_the_vale = {
 		color = { 196 36 18 }
 		
 		capital = c_canarias # Canarias
@@ -34,11 +34,225 @@ e_maghreb = {
 			}
 		}
 		
-		d_canarias = {
+		d_mamoth = {
 			color = { 42 127 201 }
 			
-			capital = c_canarias # Gran Canaria
+			capital = c_bigrock
 			
+			c_whiterock = {
+				color = { 22 107 181 }
+				
+				b_bigrock = {
+					province = 231
+					
+					color = { 22 107 181 }
+				}
+				b_white_summit = {
+					province = 215
+					
+					color = { 22 107 181 }
+				}
+				b_white_valley = {
+					province = 223
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_pineslope = {
+				color = { 22 107 181 }
+				
+				b_pineslope = {
+					province = 220
+					
+					color = { 22 107 181 }
+				}
+				b_grey_mountains = {
+					province = 221
+					
+					color = { 22 107 181 }
+				}
+				b_greypeak = {
+					province = 237
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_goatslope = {
+				color = { 22 107 181 }
+				
+				b_sunnyslope = {
+					province = 6
+					
+					color = { 22 107 181 }
+				}
+				b_avalanche = {
+					province = 38
+					
+					color = { 22 107 181 }
+				}
+				b_goats_descent = {
+					province = 7
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_redpeaks = {
+				color = { 22 107 181 }
+				
+				b_redpeak = {
+					province = 67
+					
+					color = { 22 107 181 }
+				}
+				b_the_scree = {
+					province = 75
+					
+					color = { 22 107 181 }
+				}
+				b_crowsnest = {
+					province = 52
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_greyslopes = {
+				color = { 22 107 181 }
+				
+				b_greyslopes = {
+					province = 227
+					
+					color = { 22 107 181 }
+				}
+				b_whiteclaw_pass = {
+					province = 8
+					
+					color = { 22 107 181 }
+				}
+				b_whitepraire = {
+					province = 238
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_fogbog = {
+				color = { 22 107 181 }
+				
+				b_fallenlog = {
+					province = 233
+					
+					color = { 22 107 181 }
+				}
+				b_frogsong = {
+					province = 226
+					
+					color = { 22 107 181 }
+				}
+				b_bearscrossing = {
+					province = 217
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_the_damn = {
+				color = { 22 107 181 }
+				
+				b_the_damn = {
+					province = 205
+					
+					color = { 22 107 181 }
+				}
+				b_redfingers_log = {
+					province = 180
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_first_seat = {
+				color = { 22 107 181 }
+				
+				b_the_first_seat = {
+					province = 158
+					
+					color = { 22 107 181 }
+				}
+				b_western_pass = {
+					province = 178
+					
+					color = { 22 107 181 }
+				}
+				b_the_creek = {
+					province = 131
+					
+					color = { 22 107 181 }
+				}
+				b_smoking_hills = {
+					province = 116
+					
+					color = { 22 107 181 }
+				}
+				b_herders_pass = {
+					province = 132
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_bugs_nest = {
+				color = { 22 107 181 }
+				
+				b_bugs_nest = {
+					province = 201
+					
+					color = { 22 107 181 }
+				}
+				b_misty_slope = {
+					province = 193
+					
+					color = { 22 107 181 }
+				}
+				b_woodyslope = {
+					province = 192
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_western_swamp = {
+				color = { 22 107 181 }
+				
+				b_greyvalley = {
+					province = 154
+					
+					color = { 22 107 181 }
+				}
+				b_deadfox = {
+					province = 157
+					
+					color = { 22 107 181 }
+				}
+				b_blackwaters = {
+					province = 138
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_redhills = {
+				color = { 22 107 181 }
+				
+				b_redhills = {
+					province = 50
+					
+					color = { 22 107 181 }
+				}
+				b_freshcreek = {
+					province = 40
+					
+					color = { 22 107 181 }
+				}
+				b_flysplanes = {
+					province = 9
+					
+					color = { 22 107 181 }
+				}
+			}
 			c_canarias = {
 				color = { 22 107 181 }
 				
