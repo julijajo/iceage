@@ -169,6 +169,176 @@ e_the_vale = {
 				}
 			}
 		}
+		d_black_forest = {
+			color = { 42 127 201 }
+			
+			capital = c_greengate
+			
+			c_the_mouth = {
+				color = { 22 107 181 }
+				
+				b_the_mouth = {
+					province = 57
+					
+					color = { 22 107 181 }
+				}
+				b_the_hide = {
+					province = 56
+					
+					color = { 22 107 181 }
+				}
+				b_the_horn = {
+					province = 68
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_the_clearings = {
+				color = { 22 107 181 }
+				
+				b_badger = {
+					province = 49
+					
+					color = { 22 107 181 }
+				}
+				b_skylight = {
+					province = 39
+					
+					color = { 22 107 181 }
+				}
+				b_scorched_tree = {
+					province = 14
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_bonecave = {
+				color = { 22 107 181 }
+				
+				b_bonecave = {
+					province = 15
+					
+					color = { 22 107 181 }
+				}
+				b_trout = {
+					province = 16
+					
+					color = { 22 107 181 }
+				}
+				b_beesnest = {
+					province = 242
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_the_heart_of_the_forest = {
+				color = { 22 107 181 }
+				
+				b_greenspring = {
+					province = 239
+					
+					color = { 22 107 181 }
+				}
+				b_the_heart = {
+					province = 230
+					
+					color = { 22 107 181 }
+				}
+				b_coldwater = {
+					province = 235
+					
+					color = { 22 107 181 }
+				}
+				b_blacktree = {
+					province = 228
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_edge_of_the_forest = {
+				color = { 22 107 181 }
+				
+				b_the_edge = {
+					province = 207
+					
+					color = { 22 107 181 }
+				}
+				b_sawmill = {
+					province = 219
+					
+					color = { 22 107 181 }
+				}
+				b_vultures = {
+					province = 214
+					
+					color = { 22 107 181 }
+				}
+			}
+			
+		}
+		d_the_pass = {
+			color = { 42 127 201 }
+			
+			capital = c_greengate
+			
+			c_greengate = {
+				color = { 22 107 181 }
+				
+				b_greengate = {
+					province = 51
+					
+					color = { 22 107 181 }
+				}
+				b_winterdance = {
+					province = 59
+					
+					color = { 22 107 181 }
+				}
+				b_boarsden = {
+					province = 37
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_redfall = {
+				color = { 22 107 181 }
+				
+				b_redfall = {
+					province = 63
+					
+					color = { 22 107 181 }
+				}
+				b_redcreek = {
+					province = 76
+					
+					color = { 22 107 181 }
+				}
+				b_hotsprings = {
+					province = 73
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_crimsonslopes = {
+				color = { 22 107 181 }
+				
+				b_redplains = {
+					province = 45
+					
+					color = { 22 107 181 }
+				}
+				b_boulder = {
+					province = 60
+					
+					color = { 22 107 181 }
+				}
+				b_on_the_road = {
+					province = 48
+					
+					color = { 22 107 181 }
+				}
+			}
+		}
 		d_red_mountains = {
 			color = { 42 127 201 }
 			
