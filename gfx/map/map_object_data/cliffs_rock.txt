@@ -1,7 +1,7 @@
 ﻿object={
 	name="cliff big 01"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_big_01_mesh"
@@ -9,8 +9,8 @@
 }
 object={
 	name="cliff big 02"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_big_02_mesh"
@@ -18,8 +18,8 @@ object={
 }
 object={
 	name="cliff end 01"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_end_01_mesh"
@@ -27,8 +27,8 @@ object={
 }
 object={
 	name="cliff end 02"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_end_02_mesh"
@@ -36,8 +36,8 @@ object={
 }
 object={
 	name="cliff rock 01"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_rock_01_mesh"
@@ -45,8 +45,8 @@ object={
 }
 object={
 	name="cliff rock 02"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_rock_02_mesh"
@@ -54,17 +54,18 @@ object={
 }
 object={
 	name="cliff rock 03"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_rock_03_mesh"
-	count=0
-}
+	count=1
+	transform="1574.105469 0.000000 1421.404175 0.000000 0.000000 0.000000 1.000000 2.769629 2.769629 2.769629
+"}
 object={
 	name="cliff small 01"
+	render_pass=Map
 	clamp_to_water_level=no
-	render_under_water=no
 	generated_content=no
 	layer="temp_layer"
 	pdxmesh="cliff_small_01_mesh"

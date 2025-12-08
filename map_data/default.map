@@ -17,21 +17,8 @@ seasons = "seasons.txt"
 #############
 
 #North European Seas
-sea_zones = LIST { 2 } #French & Iberian atlantic coasts
 
 ###############
-# MAJOR RIVERS
-###############
-
-########
-# LAKES
-########
-
-#####################
-# IMPASSABLE TERRAIN
-#####################
-# Can be colored by whoever owns the most of the province's neighbours.
-# Blocks unit movement.
 
 ############
 # WASTELAND

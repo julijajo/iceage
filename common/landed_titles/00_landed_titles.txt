@@ -21,7 +21,7 @@ e_the_vale = {
 	k_the_vale = {
 		color = { 196 36 18 }
 		
-		capital = c_canarias # Canarias
+		capital = c_the_seat # c_the_seat
 		
 		ai_primary_priority = {
 			if = {
@@ -34,7 +34,60 @@ e_the_vale = {
 			}
 		}
 		
-		d_mamoth = {
+		d_the_seat = {
+			color = { 42 127 201 }
+			
+			capital = c_the_seat
+			
+			c_the_seat = {
+				color = { 22 107 181 }
+				
+				b_the_seat = {
+					province = 27
+					
+					color = { 22 107 181 }
+				}
+				b_blackmarsh = {
+					province = 28
+					
+					color = { 22 107 181 }
+				}
+				b_redclaw = {
+					province = 200
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_goodsoil = {
+				color = { 22 107 181 }
+				
+				b_goodsoil = {
+					province = 181
+					
+					color = { 22 107 181 }
+				}
+				b_mills = {
+					province = 186
+					
+					color = { 22 107 181 }
+				}
+				b_the_well = {
+					province = 164
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_canarias = {
+				color = { 22 107 181 }
+				
+				b_grancanaria = {
+					province = 1
+					
+					color = { 22 107 181 }
+				}
+			}
+		}
+		d_white_mountains = {
 			color = { 42 127 201 }
 			
 			capital = c_bigrock
@@ -54,6 +107,25 @@ e_the_vale = {
 				}
 				b_white_valley = {
 					province = 223
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_greyslopes = {
+				color = { 22 107 181 }
+				
+				b_greyslopes = {
+					province = 227
+					
+					color = { 22 107 181 }
+				}
+				b_whiteclaw_pass = {
+					province = 8
+					
+					color = { 22 107 181 }
+				}
+				b_whitepraire = {
+					province = 238
 					
 					color = { 22 107 181 }
 				}
@@ -96,6 +168,12 @@ e_the_vale = {
 					color = { 22 107 181 }
 				}
 			}
+		}
+		d_red_mountains = {
+			color = { 42 127 201 }
+			
+			capital = c_redpeaks
+			
 			c_redpeaks = {
 				color = { 22 107 181 }
 				
@@ -115,21 +193,21 @@ e_the_vale = {
 					color = { 22 107 181 }
 				}
 			}
-			c_greyslopes = {
+			c_redhills = {
 				color = { 22 107 181 }
 				
-				b_greyslopes = {
-					province = 227
+				b_redhills = {
+					province = 50
 					
 					color = { 22 107 181 }
 				}
-				b_whiteclaw_pass = {
-					province = 8
+				b_freshcreek = {
+					province = 40
 					
 					color = { 22 107 181 }
 				}
-				b_whitepraire = {
-					province = 238
+				b_flysplanes = {
+					province = 9
 					
 					color = { 22 107 181 }
 				}
@@ -230,34 +308,6 @@ e_the_vale = {
 				}
 				b_blackwaters = {
 					province = 138
-					
-					color = { 22 107 181 }
-				}
-			}
-			c_redhills = {
-				color = { 22 107 181 }
-				
-				b_redhills = {
-					province = 50
-					
-					color = { 22 107 181 }
-				}
-				b_freshcreek = {
-					province = 40
-					
-					color = { 22 107 181 }
-				}
-				b_flysplanes = {
-					province = 9
-					
-					color = { 22 107 181 }
-				}
-			}
-			c_canarias = {
-				color = { 22 107 181 }
-				
-				b_grancanaria = {
-					province = 1
 					
 					color = { 22 107 181 }
 				}
