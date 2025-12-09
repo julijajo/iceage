@@ -10,18 +10,18 @@ name_list_karipong = {
 		"dynn_Deer"
 		"dynn_Elk"
 		"dynn_Moose"
-		"dynn_Water_Buffalo"
+		"dynn_Buffalo"
 		"dynn_Horse"
-		"dynn_Woolly_Rhino"
+		"dynn_Rhino"
 		"dynn_Wolf"
 		"dynn_Sheep"
-		"dynn_Otters"
+		"dynn_Otter"
 		"dynn_Boar"
 		"dynn_Fox"
-		"dynn_Snow_Leopard"
+		"dynn_Leopard"
 		"dynn_Hedgehog"
 		"dynn_Badger"
-		"dynn_Eurasian_Lynx"
+		"dynn_Lynx"
   # Bugs
 		"dynn_Butterfly"
 		"dynn_Ladybug"
@@ -31,13 +31,6 @@ name_list_karipong = {
 		"dynn_Crickets"
 		"dynn_Moth"
 		"dynn_Dragonfly"
-  # Spiders
-		"dynn_Wolf_Spider"
-		"dynn_Widow_Spider"
-		"dynn_Orb_Weaver"
-		"dynn_Daddy_Longlegs"
-		"dynn_Crab_Spider"
-		"dynn_Wasp_Spider"
   # Fish
 		"dynn_Salmon"
 		"dynn_Catfish"
@@ -48,14 +41,14 @@ name_list_karipong = {
 		"dynn_Perch"
 		"dynn_Pike"
 		"dynn_Roach"
-		"dynn_Baikal_seals"
+		"dynn_Seal"
   # Birds
 		"dynn_Stork"
 		"dynn_Crow"
-		{"dynnp_de" "dynn_Owl"}
+		{"dynnp_u" "dynn_Owl"}
 		"dynn_Magpie"
 		"dynn_Goose"
-		"dynn_Swans"
+		"dynn_Swan"
 		"dynn_Duck"
 		"dynn_Robin"
 		"dynn_Blackbird"
@@ -72,5 +65,5 @@ name_list_karipong = {
 
   female_names = {}
 
-  dynasty_of_location_prefix = "dynnp_de"
+  dynasty_of_location_prefix = "dynnp_u"
 }

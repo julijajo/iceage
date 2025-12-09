@@ -51,3 +51,175 @@ dynn_Bear = {
 	name = "dynn_Bear"
 	culture = "karipong"
 }
+dynn_Magpie = {
+	name = "dynn_Magpie"
+	culture = "karipong"
+}
+dynn_Deer = {
+	name = "dynn_Deer"
+	culture = "karipong"
+}
+dynn_Elk = {
+	name = "dynn_Elk"
+	culture = "karipong"
+}
+dynn_Moose = {
+	name = "dynn_Moose"
+	culture = "karipong"
+}
+dynn_Buffalo = {
+	name = "dynn_Buffalo"
+	culture = "karipong"
+}
+dynn_Horse = {
+	name = "dynn_Horse"
+	culture = "karipong"
+}
+dynn_Rhino = {
+	name = "dynn_Rhino"
+	culture = "karipong"
+}
+dynn_Wolf = {
+	name = "dynn_Wolf"
+	culture = "karipong"
+}
+dynn_Sheep = {
+	name = "dynn_Sheep"
+	culture = "karipong"
+}
+dynn_Otter = {
+	name = "dynn_Otter"
+	culture = "karipong"
+}
+dynn_Boar = {
+	name = "dynn_Boar"
+	culture = "karipong"
+}
+dynn_Fox = {
+	name = "dynn_Fox"
+	culture = "karipong"
+}
+dynn_Leopard = {
+	name = "dynn_Leopard"
+	culture = "karipong"
+}
+dynn_Hedgehog = {
+	name = "dynn_Hedgehog"
+	culture = "karipong"
+}
+dynn_Badger = {
+	name = "dynn_Badger"
+	culture = "karipong"
+}
+dynn_Lynx = {
+	name = "dynn_Lynx"
+	culture = "karipong"
+}
+dynn_Bee = {
+	name = "dynn_Bee"
+	culture = "karipong"
+}
+dynn_Beetle = {
+	name = "dynn_Beetle"
+	culture = "karipong"
+}
+dynn_Ant = {
+	name = "dynn_Ant"
+	culture = "karipong"
+}
+dynn_Cricket = {
+	name = "dynn_Cricket"
+	culture = "karipong"
+}
+dynn_Moth = {
+	name = "dynn_Moth"
+	culture = "karipong"
+}
+dynn_Dragonfly = {
+	name = "dynn_Dragonfly"
+	culture = "karipong"
+}
+dynn_Spider = {
+	name = "dynn_Spider"
+	culture = "karipong"
+}
+dynn_Catfish = {
+	name = "dynn_Catfish"
+	culture = "karipong"
+}
+dynn_Zander = {
+	name = "dynn_Zander"
+	culture = "karipong"
+}
+dynn_Trout = {
+	name = "dynn_Trout"
+	culture = "karipong"
+}
+dynn_Carp = {
+	name = "dynn_Carp"
+	culture = "karipong"
+}
+dynn_Eel = {
+	name = "dynn_Eel"
+	culture = "karipong"
+}
+dynn_Perch = {
+	name = "dynn_Perch"
+	culture = "karipong"
+}
+dynn_Pike = {
+	name = "dynn_Pike"
+	culture = "karipong"
+}
+dynn_Roach = {
+	name = "dynn_Roach"
+	culture = "karipong"
+}
+dynn_Seal = {
+	name = "dynn_Seal"
+	culture = "karipong"
+}
+dynn_Crow = {
+	name = "dynn_Crow"
+	culture = "karipong"
+}
+dynn_Owl = {
+	name = "dynn_Owl"
+	culture = "karipong"
+}
+dynn_Goose = {
+	name = "dynn_Goose"
+	culture = "karipong"
+}
+dynn_Swan = {
+	name = "dynn_Swan"
+	culture = "karipong"
+}
+dynn_Duck = {
+	name = "dynn_Duck"
+	culture = "karipong"
+}
+dynn_Robin = {
+	name = "dynn_Robin"
+	culture = "karipong"
+}
+dynn_Blackbird = {
+	name = "dynn_Blackbird"
+	culture = "karipong"
+}
+dynn_Crane = {
+	name = "dynn_Crane"
+	culture = "karipong"
+}
+dynn_Eagle = {
+	name = "dynn_Eagle"
+	culture = "karipong"
+}
+dynn_Falcon = {
+	name = "dynn_Falcon"
+	culture = "karipong"
+}
+dynn_Woodpecker = {
+	name = "dynn_Woodpecker"
+	culture = "karipong"
+}
