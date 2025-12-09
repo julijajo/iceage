@@ -121,6 +121,19 @@ mammoth_821 = {
 		death = yes
 	}
 }
+mammoth_822 = {
+	name = "Coldfeet"
+	dynasty = dynn_Mammoth
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = mammoth_82
+	68.1.1 = {
+		birth = yes
+	}
+	126.1.1 = {
+		death = yes
+	}
+}
 mammoth_90 = {
 	name = "Rawmeat"
 	female = yes
@@ -352,16 +365,70 @@ mammoth_1006 = {
 	}
 }
 ######### Dog Clan
+dog_70 = {
+	name = "Rabbit"
+	female = yes
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	21.1.1 = {
+		birth = yes
+	}
+	93.1.1 = {
+		death = yes
+	}
+}
 dog_80 = {
 	name = "Smokeye"
 	female = yes
 	dynasty = dynn_Dog
 	culture = "karipong"
 	religion = "west_african_pagan"
+	mother = dog_70
 	49.1.1 = {
 		birth = yes
 	}
 	102.1.1 = {
+		death = yes
+	}
+}
+dog_81 = {
+	name = "Shaggy"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_70
+	53.1.1 = {
+		birth = yes
+	}
+	108.1.1 = {
+		death = yes
+	}
+}
+dog_82 = {
+	name = "Hunter"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_70
+	56.1.1 = {
+		birth = yes
+	}
+	110.1.1 = {
+		death = yes
+	}
+}
+dog_83 = {
+	name = "Redclaw"
+	female = yes
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_70
+	57.1.1 = {
+		birth = yes
+	}
+	110.1.1 = {
 		death = yes
 	}
 }
@@ -413,6 +480,33 @@ dog_93 = {
 	religion = "west_african_pagan"
 	mother = dog_80
 	78.1.1 = {
+		birth = yes
+	}
+	130.1.1 = {
+		death = yes
+	}
+}
+dog_94 = {
+	name = "Whitefinger"
+	female = yes
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_83
+	82.1.1 = {
+		birth = yes
+	}
+	130.1.1 = {
+		death = yes
+	}
+}
+dog_95 = {
+	name = "Shaggy"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_83
+	86.1.1 = {
 		birth = yes
 	}
 	130.1.1 = {

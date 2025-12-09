@@ -73,3 +73,24 @@ c_crimsonslopes = {
 		holder = butterfly_0902
 	}
 }
+c_rockfoot = {
+	80.1.1 = {
+		holder = dog_81
+	}
+	109.1.1 = {
+		holder = dog_95
+	}
+}
+c_greysands = {
+	80.1.1 = {
+		holder = dog_81
+	}
+	109.1.1 = {
+		holder = dog_95
+	}
+}
+c_starfall = {
+	80.1.1 = {
+		holder = mammoth_822
+	}
+}
