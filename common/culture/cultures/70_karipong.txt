@@ -10,7 +10,6 @@ karipong = {
 		tradition_female_only_inheritance
 		tradition_mystical_ancestors
 		tradition_parochialism
-		tradition_bush_hunting
 		# Tribal Unity based
 		# Medicinal Herbalists maybe
 		# Wetlanders maybe
