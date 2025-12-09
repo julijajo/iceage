@@ -393,6 +393,32 @@ dog_91 = {
 		death = yes
 	}
 }
+dog_92 = {
+	name = "Pinetree"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_80
+	76.1.1 = {
+		birth = yes
+	}
+	130.1.1 = {
+		death = yes
+	}
+}
+dog_93 = {
+	name = "Blackhands"
+	dynasty = dynn_Dog
+	culture = "karipong"
+	religion = "west_african_pagan"
+	mother = dog_80
+	78.1.1 = {
+		birth = yes
+	}
+	130.1.1 = {
+		death = yes
+	}
+}
 dog_100 = {
 	name = "Hunter"
 	dynasty = dynn_Dog

@@ -172,6 +172,44 @@ e_the_vale = {
 					color = { 22 107 181 }
 				}
 			}
+			c_maidenshall = {
+				color = { 22 107 181 }
+				
+				b_hall = {
+					province = 98
+					
+					color = { 22 107 181 }
+				}
+				b_planks = {
+					province = 140
+					
+					color = { 22 107 181 }
+				}
+				b_hangmansbog = {
+					province = 99
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_battlemouth = {
+				color = { 22 107 181 }
+				
+				b_battlemouth = {
+					province = 88
+					
+					color = { 22 107 181 }
+				}
+				b_execution = {
+					province = 74
+					
+					color = { 22 107 181 }
+				}
+				b_whitecave = {
+					province = 64
+					
+					color = { 22 107 181 }
+				}
+			}
 		}
 		d_white_mountains = {
 			color = { 42 127 201 }
@@ -406,17 +444,17 @@ e_the_vale = {
 					
 					color = { 22 107 181 }
 				}
+				b_bluewaters = {
+					province = 224
+					
+					color = { 22 107 181 }
+				}
 			}
 			c_yellowstone = {
 				color = { 22 107 181 }
 				
 				b_yellowstone = {
 					province = 211
-					
-					color = { 22 107 181 }
-				}
-				b_bluewaters = {
-					province = 224
 					
 					color = { 22 107 181 }
 				}
@@ -427,6 +465,49 @@ e_the_vale = {
 				}
 				b_riskyslope = {
 					province = 208
+					
+					color = { 22 107 181 }
+				}
+				b_falls = {
+					province = 184
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_coldbreeze = {
+				color = { 22 107 181 }
+				
+				b_ripples = {
+					province = 172
+					
+					color = { 22 107 181 }
+				}
+				b_huntertrail = {
+					province = 155
+					
+					color = { 22 107 181 }
+				}
+				b_lonelyhill = {
+					province = 141
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_the_tower = {
+				color = { 22 107 181 }
+				
+				b_hightower = {
+					province = 85
+					
+					color = { 22 107 181 }
+				}
+				b_redeyes = {
+					province = 117
+					
+					color = { 22 107 181 }
+				}
+				b_blackpine = {
+					province = 111
 					
 					color = { 22 107 181 }
 				}
