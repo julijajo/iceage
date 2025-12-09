@@ -9,6 +9,7 @@
 	culture = "welsh"
 }
 
+# Karipong from here
 dynn_Dog = {
 	name = "dynn_Dog"
 	culture = "karipong"
@@ -19,5 +20,34 @@ dynn_Mammoth = {
 }
 dynn_Butterfly = {
 	name = "dynn_Butterfly"
+	culture = "karipong"
+}
+
+dynn_Salmon = {
+	name = "dynn_Salmon"
+	culture = "karipong"
+}
+dynn_Yak = {
+	name = "dynn_Yak"
+	culture = "karipong"
+}
+dynn_Sabertooth = {
+	name = "dynn_Sabertooth"
+	culture = "karipong"
+}
+dynn_Ladybug = {
+	name = "dynn_Ladybug"
+	culture = "karipong"
+}
+dynn_Stork = {
+	name = "dynn_Stork"
+	culture = "karipong"
+}
+dynn_BearClaw = {
+	name = "dynn_BearClaw"
+	culture = "karipong"
+}
+dynn_Bear = {
+	name = "dynn_Bear"
 	culture = "karipong"
 }
