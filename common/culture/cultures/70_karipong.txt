@@ -4,69 +4,29 @@ karipong = {
 	ethos = ethos_communal
 	heritage = heritage_karipong
 	language = language_karipong
-	martial_custom = martial_custom_equal
+	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain	
+	
 	traditions = {
-		tradition_female_only_inheritance
-		tradition_mystical_ancestors
-		tradition_parochialism
-		# Tribal Unity based
-		# Medicinal Herbalists maybe
-		# Wetlanders maybe
-		# Pastorialists prob not
-		# Storytellers
-		# Collective Lands
+		tradition_tribe_unity # arabic bedouin
+		tradition_storytellers # bantu swahili
+		# tradition_fp2_ritualised_friendship # iberian andalusian
+		# tradition_fp2_state_ransoming # iberian aragonese
+		# tradition_tribes_of_the_north # this one is added as del trigger below
+		tradition_collective_lands # indo-aryan assamese
+	}
 
-		# Esteemed Hospitality 
-		# In this culture rulers are known, and expected, to welcome anyone who might come to their court with open arms. Hosting guests and visitors in a spectacular fashion.
-
-		# Family Business maybe
-		# Everything close family
-
-		# Forest Folk could work
-		# Hidden Cities maybe but change from jungle to forest
-		
-		# Monastic Communities maybe reworked
-		# Mountain Homes could work depends on mountain terrain
-		# State Ransoming sounds fun
-		# we can make it into situalistic warfare
-		# Every soldier goes into battle ready to risk life and limb for their liege! Does it not behoove the liege to offer them some guarantee of safety, regardless of station, should they be captured in the field?
-
-	# warfare traditions
-		# Forest Fighters 
-		# Highland Warriors thematically maybe?? but gameplay-wise no
-		# Hit-and-Run Tacticians
-		# custom tradition about hunting and archers
-		# Only the Strong
-
-		# Reverence for Veterans they would do this
-		# Stand and Fight! they would do this
-		# Winter Warriors
-
-	# social traits
-		# Charismatic (Welcoming)
-		# The people of this culture excel in diplomatic matters, and social etiquette is valued above all else.
-
-		# the free karipong: Diasporic
-		# Expert Artisans maybe?
-		# Mendicant Mystics thematically maybe?? but gameplay-wise no
-		# Musical Theorists beyond useless
-		# Northern Stories overlaps with storytellers
-		# Prolific Hunters kinda like it
-		# this culture has refined their hunting practices to precise and almost beautiful art
-		# Ritualized Friendship
-		# Trials-by-Combat maybe
-	# ritual traditions
-		# Bound by Faith only as a failsafe
-
-		# what if concubines' children are disinherited from the start and cannot inherit titles
-		# Mystical Ancestors yes, very karpong coded
-		# ursine hunt?
-	# regional
-		# Forest Wardens it's not bad, but are we really that foresty?
-		# Strong Kinship we had something very similar to this i frogor
-		# Tribes of the North lowkey this does everything, except it's DLC
-
+	# dlc_tradition = {
+	# 	trait = tradition_mpo_northern_tribes
+	# 	requires_dlc_flag = khans_of_the_steppe
+	# }
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_state_ransoming
+		requires_dlc_flag = the_fate_of_iberia
 	}
 
 	name_list = name_list_karipong
@@ -75,7 +35,7 @@ karipong = {
 	building_gfx = { norse_building_gfx }
 	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx sami_clothing_gfx mongol_clothing_gfx }
 	unit_gfx = { mongol_unit_gfx }
-	house_coa_frame = house_frame_27
+	house_coa_frame = house_frame_29
 	house_coa_mask_offset = { 0.0 0.0 }
 	house_coa_mask_scale = { 0.95 0.95 }
 
