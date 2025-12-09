@@ -77,6 +77,101 @@ e_the_vale = {
 					color = { 22 107 181 }
 				}
 			}
+			c_the_ridge = {
+				color = { 22 107 181 }
+				
+				b_the_ridge = {
+					province = 32
+					
+					color = { 22 107 181 }
+				}
+				b_deathmarsh = {
+					province = 190
+					
+					color = { 22 107 181 }
+				}
+				b_middlehills = {
+					province = 203
+					
+					color = { 22 107 181 }
+				}
+				b_blackrocks = {
+					province = 185
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_greenrocks = {
+				color = { 22 107 181 }
+				
+				b_greenpasture = {
+					province = 33
+					
+					color = { 22 107 181 }
+				}
+				b_coldcliff = {
+					province = 41
+					
+					color = { 22 107 181 }
+				}
+				b_hamlet = {
+					province = 34
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_whitefields = {
+				color = { 22 107 181 }
+				
+				b_whitefields = {
+					province = 93
+					
+					color = { 22 107 181 }
+				}
+				b_riverhill = {
+					province = 134
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_whitefields = {
+				color = { 22 107 181 }
+				
+				b_whitefields = {
+					province = 93
+					
+					color = { 22 107 181 }
+				}
+				b_riverhill = {
+					province = 134
+					
+					color = { 22 107 181 }
+				}
+				b_rusted = {
+					province = 79
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_maidenshall = {
+				color = { 22 107 181 }
+				
+				b_hall = {
+					province = 98
+					
+					color = { 22 107 181 }
+				}
+				b_planks = {
+					province = 140
+					
+					color = { 22 107 181 }
+				}
+				b_hangmansbog = {
+					province = 99
+					
+					color = { 22 107 181 }
+				}
+			}
 		}
 		d_white_mountains = {
 			color = { 42 127 201 }
@@ -160,6 +255,39 @@ e_the_vale = {
 				}
 			}
 		}
+		d_salmon_islands = {
+			color = { 42 127 201 }
+			
+			capital = c_greengate
+			
+			c_whitefin = {
+				color = { 22 107 181 }
+				
+				b_whitefin = {
+					province = 1
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_goodcatch = {
+				color = { 22 107 181 }
+				
+				b_goodcatch = {
+					province = 70
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_safeharbour = {
+				color = { 22 107 181 }
+				
+				b_troutcatchers = {
+					province = 58
+					
+					color = { 22 107 181 }
+				}
+			}
+		}
 		d_black_forest = {
 			color = { 42 127 201 }
 			
@@ -218,6 +346,153 @@ e_the_vale = {
 				}
 				b_beesnest = {
 					province = 242
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_eastbank = {
+				color = { 22 107 181 }
+				
+				b_canoesend = {
+					province = 53
+					
+					color = { 22 107 181 }
+				}
+				b_bluepeaks = {
+					province = 47
+					
+					color = { 22 107 181 }
+				}
+				b_floatingcorpse = {
+					province = 18
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_black_mountains = {
+				color = { 22 107 181 }
+				
+				b_sevenhills = {
+					province = 19
+					
+					color = { 22 107 181 }
+				}
+				b_whiteclouds = {
+					province = 20
+					
+					color = { 22 107 181 }
+				}
+				b_pinetrees = {
+					province = 21
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_smokey = {
+				color = { 22 107 181 }
+				
+				b_brokenpass = {
+					province = 241
+					
+					color = { 22 107 181 }
+				}
+				b_ford = {
+					province = 232
+					
+					color = { 22 107 181 }
+				}
+				b_whitepass = {
+					province = 234
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_yellowstone = {
+				color = { 22 107 181 }
+				
+				b_yellowstone = {
+					province = 211
+					
+					color = { 22 107 181 }
+				}
+				b_bluewaters = {
+					province = 224
+					
+					color = { 22 107 181 }
+				}
+				b_overwatch = {
+					province = 218
+					
+					color = { 22 107 181 }
+				}
+				b_riskyslope = {
+					province = 208
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_the_finger = {
+				color = { 22 107 181 }
+				
+				b_the_tip = {
+					province = 101
+					
+					color = { 22 107 181 }
+				}
+				b_the_joint = {
+					province = 125
+					
+					color = { 22 107 181 }
+				}
+				b_the_knunkle = {
+					province = 152
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_three_lakes = {
+				color = { 22 107 181 }
+				
+				b_lakes = {
+					province = 165
+					
+					color = { 22 107 181 }
+				}
+				b_deadhorse = {
+					province = 139
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_misty_forest = {
+				color = { 22 107 181 }
+				
+				b_ripplewatch = {
+					province = 126
+					
+					color = { 22 107 181 }
+				}
+				b_drylogs = {
+					province = 171
+					
+					color = { 22 107 181 }
+				}
+				b_aparitions = {
+					province = 160
+					
+					color = { 22 107 181 }
+				}
+			}
+			c_wetlogs = {
+				color = { 22 107 181 }
+				
+				b_watchtower = {
+					province = 96
+					
+					color = { 22 107 181 }
+				}
+				b_logs = {
+					province = 120
 					
 					color = { 22 107 181 }
 				}
