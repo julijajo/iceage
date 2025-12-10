@@ -61,9 +61,9 @@ name_list_karipong = {
 	dynasty_names = {
 		{}}
 
-  male_names = {}
+  male_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
 
-  female_names = {}
+  female_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
 
   dynasty_of_location_prefix = "dynnp_u"
 }
