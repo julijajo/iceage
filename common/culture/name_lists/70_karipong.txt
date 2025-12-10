@@ -26,9 +26,9 @@ name_list_karipong = {
 		"dynn_Butterfly"
 		"dynn_Ladybug"
 		"dynn_Bee"
-		"dynn_Beetles"
-		"dynn_Ants"
-		"dynn_Crickets"
+		"dynn_Beetle"
+		"dynn_Ant"
+		"dynn_Cricket"
 		"dynn_Moth"
 		"dynn_Dragonfly"
   # Fish
@@ -59,11 +59,68 @@ name_list_karipong = {
 
 
 	dynasty_names = {
-		{}}
+		{
+  	# Mammals
+		"dynn_Bear"
+		"dynn_Mammoth"
+		"dynn_Dog"
+		"dynn_Sabertooth"
+		"dynn_Yak"
+		"dynn_Deer"
+		"dynn_Elk"
+		"dynn_Moose"
+		"dynn_Buffalo"
+		"dynn_Horse"
+		"dynn_Rhino"
+		"dynn_Wolf"
+		"dynn_Sheep"
+		"dynn_Otter"
+		"dynn_Boar"
+		"dynn_Fox"
+		"dynn_Leopard"
+		"dynn_Hedgehog"
+		"dynn_Badger"
+		"dynn_Lynx"
+  	# Bugs
+		"dynn_Butterfly"
+		"dynn_Ladybug"
+		"dynn_Bee"
+		"dynn_Beetle"
+		"dynn_Ant"
+		"dynn_Cricket"
+		"dynn_Moth"
+		"dynn_Dragonfly"
+  	# Fish
+		"dynn_Salmon"
+		"dynn_Catfish"
+		"dynn_Zander"
+		"dynn_Trout"
+		"dynn_Carp"
+		"dynn_Eel"
+		"dynn_Perch"
+		"dynn_Pike"
+		"dynn_Roach"
+		"dynn_Seal"
+  	# Birds
+		"dynn_Stork"
+		"dynn_Crow"
+		{"dynnp_u" "dynn_Owl"}
+		"dynn_Magpie"
+		"dynn_Goose"
+		"dynn_Swan"
+		"dynn_Duck"
+		"dynn_Robin"
+		"dynn_Blackbird"
+		"dynn_Crane"
+		"dynn_Eagle"
+		"dynn_Falcon"
+		"dynn_Woodpecker"
+		}
+	}
 
-  male_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
+	male_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
 
-  female_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
+	female_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
 
   dynasty_of_location_prefix = "dynnp_u"
 }
