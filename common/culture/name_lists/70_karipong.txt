@@ -118,9 +118,33 @@ name_list_karipong = {
 		}
 	}
 
-	male_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
+	male_names = {
+		Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale
+		Cloudhair Coldfeet
+		Fang
+		Hunter
+		Meekpaw
+		Pinetree
+		Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth
+		Shaggy Sheepcloak Smokeye Strongfoot
+		Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly
+	}
 
-	female_names = {Blackface Blackhands Blackpine Blackrock Blackteeth Bluescale Cloudhair Coldfeet Fang Hunter Meekpaw Pinetree Rabbit Rawmeat Redcheeks Redclaw Redeyes Redteeth Shaggy Sheepcloak Smokeye Strongfoot Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly}
-
-  dynasty_of_location_prefix = "dynnp_u"
+	female_names = { 
+		Beautifulfist Blackface Blackfang Blackhands Blackpine Blackrock Blackteeth Bluelips Bluescale Braveheart
+		Cloudhair Cloudhead Cloudpine Coldfeet Coldfingers Coldhands Coldhead Coolhead
+		Elkfeet
+		Fang Firstleg Flowermark Flowerwrist
+		Greencloak Greenface Greensmoke
+		Hunched Hunter
+		Lightningname Lightningvoice
+		Meekhand Meekpaw
+		Pinemark Pinesap Pinetree
+		Rabbit Raspyvoice Rawmeat Redcheeks Redclaw Redeyes Redhand Redlips Redteeth Redtusks
+		Shaggy Sheepcloak Smokeface Smokepine Smokeye Strongfoot Stronghand Strongheart
+		Thunderfoot Treesap Truthlips Twomarks Twonames
+		Whiteclaw Whitefang Whitefinger Whitefingers Whitesap Whitetusk Whiteye Winterfoot Woolly
+		Yelloweyes Yellowflag Yellowsmoke Yellowspice Yellowtree
+	}
+	dynasty_of_location_prefix = "dynnp_u"
 }
