@@ -16,7 +16,11 @@ This is a total conversion mod
 
 ## Team
 Juli "The GOAT" jajo - concept, map, coding, uhh, everything actually
+
 Ljukkti - this readme.md
+
 Alen - story, cultural dynamics, worldbuilding
+
 Atlas - cultural ideas, asset repurposing
+
 Kasper - the embezzlement of own retirement funds for the benefit of the creative team
