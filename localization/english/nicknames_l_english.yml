@@ -1,0 +1,6 @@
+l_english:
+ DEFAULT_NICKNAME_DESC:2 "Friends and foes across the land know [CHARACTER.GetShortUINameNoTooltipNoFormat] as '[CHARACTER.GetNicknameNoTooltip]'."
+
+ nick_storm_conqueror:0 "The Storm Conqueror"
+ nick_storm_conqueror_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] known for [CharYourHerHis(CHARACTER)] successful ascent beyond [the Circle Mountains|U]."
+ 
