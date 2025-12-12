@@ -1,0 +1,30 @@
+#TODO: preparation, storm, and conqueror
+
+# berserker = {
+	
+# 	category = fame
+# 	diplomacy = -2
+# 	martial = 2
+# 	prowess = 5
+# 	dread_baseline_add = 15
+	
+# 	same_opinion = 10
+	
+# 	ruler_designer_cost = 40
+	
+# 	desc = {
+# 		first_valid = {
+# 			triggered_desc = {
+# 				trigger = {
+# 					NOT = { exists = this }
+# 				}
+# 				desc = trait_berserker_desc
+# 			}
+# 			desc = trait_berserker_character_desc
+# 		}
+# 	}
+
+# 	ai_rationality = medium_negative_ai_value
+# 	ai_energy = 20
+# 	ai_boldness = medium_positive_ai_value
+# }
