@@ -1,0 +1,2 @@
+nick_storm_conqueror = {}
+# nick_storm_conquering = { is_prefix = yes is_bad = no }
